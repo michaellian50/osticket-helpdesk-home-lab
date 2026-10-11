@@ -44,7 +44,17 @@ These scenarios are simulated for learning purposes and do not represent profess
 
 ## Screenshots
 
-See the `screenshots/` directory for evidence of the lab configuration and ticket workflows.
+### Staff Panel
+![osTicket Staff Panel](screenshots/Staff%20screenshot.png)
+
+### Help Topics
+![Help Topics Configuration](screenshots/Help%20topics.png)
+
+### SLA Plans
+![SLA Plans Configuration](screenshots/SLA%20Plans.png)
+
+### Ticket Management
+![Ticket Management](screenshots/Ticket%20management.png)
 
 ## Disclaimer
 
